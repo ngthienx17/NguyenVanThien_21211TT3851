@@ -25,7 +25,7 @@ a {
 
 .nav-top .nav-item.item-border {
   background: url(../images/bkg_pipe1.gif) no-repeat scroll 0 1.5rem transparent;
-  float: lebox;
+float: left;
   padding: 0px 10px;
 }
 
