@@ -69,7 +69,7 @@
   }
 
   .icon {
-    background: url(../../images/sprite.png) no-repeat scroll -4px -123px transparent;
+    background: url(../images/sprite.png) no-repeat scroll -4px -123px transparent;
     height: 30px;
     width: 30px;
     margin-top: 6px;
